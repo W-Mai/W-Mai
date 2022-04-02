@@ -1,4 +1,4 @@
-<img src="/github-metrics.svg" alt="Metrics" width="101%">
+<img src="/github-metrics.svg" alt="Metrics" width="101%" style="max-width: 200%">
 
 <!--
 **W-Mai/W-Mai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
