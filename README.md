@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](/github-metrics.svg)
+
 <!--
 **W-Mai/W-Mai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
