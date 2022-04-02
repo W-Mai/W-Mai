@@ -26,7 +26,7 @@ jobs:
           user: W-Mai
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: large
+          config_display: columns
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -65,7 +65,3 @@ jobs:
           plugin_repositories: 100
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: current-year
