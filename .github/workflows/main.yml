@@ -24,7 +24,7 @@ jobs:
 
           # Options
           user: W-Mai
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
