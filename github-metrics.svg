@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1176" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1180" class="large">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            602 Commits
+                            603 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.03839854042286" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="294.03839854042286" y="0" width="180.24555128347805" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="474.28394982390085" y="0" width="164.0429910673001" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="638.3269408912009" y="0" width="151.88530281680207" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="790.212243708003" y="0" width="107.52581924880053" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="897.7380629568036" y="0" width="11.531850662938307" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="909.2699136197418" y="0" width="6.705402723854337" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="915.9753163435962" y="0" width="4.024683656403754" height="8" fill="#b2b7f8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="293.63935760573526" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="293.63935760573526" y="0" width="180.00093917290175" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="473.64029677863704" y="0" width="163.8203675296622" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="637.4606643082992" y="0" width="152.9277149923301" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="790.3883793006294" y="0" width="107.37989543875028" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="897.7682747393796" y="0" width="11.516200732554863" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="909.2844754719345" y="0" width="6.696302789343518" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="915.980778261278" y="0" width="4.0192217387220985" height="8" fill="#b2b7f8"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1349,6 +1349,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#5109746</div>
+                                        <div class="message">特性：增加自动重载更新图片功能</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">W-Mai/FrameworkDrawer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#4491717</div>
                                         <div class="message">特性：封装模块</div>
                                     </div>
@@ -1431,26 +1451,6 @@
                                     <div class="commit">
                                         <div class="sha">#a2783f2</div>
                                         <div class="message">dept</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">XCLZ-STUDIO/xUnionFind</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dept</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1b9c25c</div>
-                                        <div class="message">Merge branch 'master' into dept</div>
                                     </div>
                                 </div>
                             </section>
