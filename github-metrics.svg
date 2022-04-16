@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            607 Commits
+                            608 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="293.63935760573526" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="293.63935760573526" y="0" width="180.00093917290175" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="473.64029677863704" y="0" width="163.8203675296622" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="637.4606643082992" y="0" width="152.9277149923301" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="790.3883793006294" y="0" width="107.37989543875028" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="897.7682747393796" y="0" width="11.516200732554863" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="909.2844754719345" y="0" width="6.696302789343518" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="915.980778261278" y="0" width="4.0192217387220985" height="8" fill="#b2b7f8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="292.49840960969954" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="292.49840960969954" y="0" width="179.30153800097293" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="471.7999476106725" y="0" width="163.18383664508724" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="634.9837842557598" y="0" width="155.90820641395055" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="790.8919906697103" y="0" width="106.96266636729908" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="897.8546570370094" y="0" width="11.471454053312378" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="909.3261110903217" y="0" width="6.670284024997193" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="915.9963951153189" y="0" width="4.003604884681111" height="8" fill="#b2b7f8"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1321,6 +1321,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#edb95fd</div>
+                                        <div class="message">特性：增加节点类和信号类
+
+准备向着Djagno框架学习，用代码构建框图</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">W-Mai/FrameworkDrawer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#6db0a46</div>
                                         <div class="message">修改：修改样例</div>
                                     </div>
@@ -1389,26 +1411,6 @@ alias负责具体显示内容</div>
                                     <div class="commit">
                                         <div class="sha">#4a1c270</div>
                                         <div class="message">修改window tab字体为默认</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">EsZHU/QtExamSystem</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4f8c590</div>
-                                        <div class="message">适配Windows版本</div>
                                     </div>
                                 </div>
                             </section>
