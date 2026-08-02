@@ -1,13 +1,5 @@
 <img src="/github-metrics.svg" alt="Metrics" width="101%" style="max-width: 200%">
 
-## 🎹 VFXPiano — 把每一次按键，都变成一场烟花
-
-<a href="https://github.com/W-Mai/VFXPiano"><img src="https://raw.githubusercontent.com/W-Mai/VFXPiano/main/docs/screenshot.png" alt="VFXPiano" width="100%"/></a>
-
-88 键炫彩钢琴可视化 · 三层 GPU 粒子特效 · 物理波动琴键 · 原生低延迟发声。接 MIDI 或用电脑键盘弹奏，每个音从键面迸射彩色烟花。
-
-🔗 [GitHub](https://github.com/W-Mai/VFXPiano) · 📥 [下载](https://github.com/W-Mai/VFXPiano/releases) · 🌐 [在线预览](http://benign.host/VFXPiano/)
-
 <!--
 **W-Mai/W-Mai** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
