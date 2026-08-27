@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: W-Mai/metrics@5e1c927826e5bb945f556846a2b466e0f28c2e92
+      - uses: W-Mai/metrics@cdd061f92b5d36cc226c11f4e47c62e1298746a0
         with:
           # Your GitHub token
           # The following scopes are required:
