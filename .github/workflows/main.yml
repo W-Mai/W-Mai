@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - uses: docker/setup-buildx-action@v3
-      - uses: W-Mai/metrics@41dfb291c4d47df47646313efc5eafff47e946fd
+      - uses: W-Mai/metrics@0a6978836ed5e6f0c386f264a64e7f88a05a34c8
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -30,6 +30,7 @@ jobs:
           base: header, activity, community, repositories
           config_display: large
           config_timezone: Asia/Shanghai
+          plugins_errors_fatal: yes
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
